@@ -1,0 +1,8 @@
+user:icroman@falabella.cl
+password:igor12345
+
+db:157.230.130.4
+Puerto:5433
+database:dev_find_it
+user:postgres
+password:1234

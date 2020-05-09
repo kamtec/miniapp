@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Miniapp</string>
+    <string name="no_se_encuentran_indicadores_en_la_lista">no se encuentran indicadores en la lista</string>
+</resources>
